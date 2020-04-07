@@ -1,0 +1,22 @@
+2020-04-07 14:36:59 INFO  Main:24 - Operation completed
+2020-04-07 14:38:46 ERROR DataProviderXML:651 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-07 14:38:46 ERROR DataProviderXML:651 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-07 14:38:46 ERROR DataProviderXML:651 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-07 14:38:46 ERROR DataProviderXML:651 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-07 14:38:46 ERROR DataProviderXML:651 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-07 14:38:46 ERROR DataProviderXML:651 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-07 14:38:46 ERROR DataProviderXML:651 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-07 14:38:46 ERROR DataProviderXML:651 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-07 14:38:46 ERROR DataProviderXML:651 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+2020-04-07 14:38:46 INFO  Main:24 - Operation completed
+2020-04-07 14:39:04 INFO  Main:24 - Record updated
+2020-04-07 14:39:24 INFO  Main:24 - Letter{id=3,weight=333, mark=Mark{id=1, name='Name', price=1111}, markCount=333, envelope=Envelope{id=1, size=0x0, price=1111}, sender=Client{id=1, name=Name}, recipient=Client{id=1, name=Name}, addressFrom='new', postOfficeFrom=PostOffice{officeId=1, country='country', city='city', address='address'}, addressTo='new', postOfficeTo=PostOffice{officeId=1, country='country', city='city', address='address'}, price=333, received=false, date='date'}

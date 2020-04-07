@@ -1,0 +1,42 @@
+<ListXML>
+   <object class="ru.sfedu.mailing.models.Letter">
+      <id>3</id>
+      <date>date</date>
+      <addressFrom>new</addressFrom>
+      <addressTo>new</addressTo>
+      <price>333</price>
+      <postOfficeFrom>
+         <address>address</address>
+         <country>country</country>
+         <OfficeId>1</OfficeId>
+         <city>city</city>
+      </postOfficeFrom>
+      <recipient>
+         <name>Name</name>
+         <id>1</id>
+      </recipient>
+      <received>false</received>
+      <sender>
+         <name>Name</name>
+         <id>1</id>
+      </sender>
+      <postOfficeTo>
+         <address>address</address>
+         <country>country</country>
+         <OfficeId>1</OfficeId>
+         <city>city</city>
+      </postOfficeTo>
+      <envelope>
+         <id>1</id>
+         <size>0x0</size>
+         <price>1111</price>
+      </envelope>
+      <mark>
+         <name>Name</name>
+         <id>1</id>
+         <price>1111</price>
+      </mark>
+      <markCount>333</markCount>
+      <weight>333</weight>
+   </object>
+</ListXML>

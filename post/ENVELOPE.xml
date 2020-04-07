@@ -1,0 +1,7 @@
+<ListXML>
+   <object class="ru.sfedu.mailing.models.Envelope">
+      <id>1</id>
+      <size>0x0</size>
+      <price>1111</price>
+   </object>
+</ListXML>

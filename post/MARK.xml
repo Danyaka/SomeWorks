@@ -1,0 +1,7 @@
+<ListXML>
+   <object class="ru.sfedu.mailing.models.Mark">
+      <name>Name</name>
+      <id>1</id>
+      <price>1111</price>
+   </object>
+</ListXML>
