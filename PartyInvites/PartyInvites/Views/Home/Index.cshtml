@@ -1,0 +1,35 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="~/Content/bootstrap-theme.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style>
+        .btn a{
+            color: white;
+            text-decoration:none;
+        }
+
+        .body{
+            background-color: #F1F1F1;
+        }
+    </style>
+</head>
+<body>
+    <div class="text-center">
+        <h1>Мы собираемся на захватывающую вечеринку!</h1>
+        <h2>И вы приглашены, нужно только заполнить форму</h2>
+        <br />
+        <div class="btn btn-success">
+            @Html.ActionLink("Форма RSVP", "RsvpForm")
+        </div>
+    </div>
+</body>
+</html>
